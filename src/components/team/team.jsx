@@ -68,9 +68,9 @@ function Team() {
             description="Crafting digital experiences that delight users is my passion. Explore my work and get in touch!"
             imageSrc={Img1}
             twitterLink="https://twitter.com/"
-            facebookLink="https://instagram.com/shrikant20.1.7?utm_source=qr&igshid=MThlNWY1MzQwNA=="
-            linkedInLink="https://www.linkedin.com/in/shri-kant-a03099200/"
-            githubLink="https://github.com/shrIKant-07"
+            facebookLink="https://www.instagram.com/thenameis.krishna/?hl=en"
+            linkedInLink="https://www.linkedin.com/in/kishan-chauhan-910210217/"
+            githubLink="https://github.com/shrIKant-07https://github.com/thenameiskrishna"
           />
           <TeamMember
             name="Mohd. Umair"

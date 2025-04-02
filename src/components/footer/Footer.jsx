@@ -40,7 +40,7 @@ function Footer() {
         {/* Social media icons container */}
         <div className="flex justify-center mb-6">
           <h2 className="mr-2 font-bold text-2xl p-3">Social Media</h2>
-          <a href="https://www.linkedin.com/in/umair98392/" className="social-icon">
+          <a href="https://www.linkedin.com/in/kishan-chauhan-910210217/" className="social-icon">
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
           <a href="https://twitter.com/umair98392" className="social-icon">
@@ -87,7 +87,7 @@ function Footer() {
             <h2 className="mb-2.5 font-bold uppercase text-xl">Contact Us</h2>
             <ul className="mb-0 list-none text-center">
               <li className='mt-4 font-semibold'>
-                <h4>Phone: +91 9839191428</h4>
+                <h4>Phone: +91 9354210642</h4>
               </li>
               <li className='mt-4 font-semibold'>
                 <h4>Email: cricshotai@gmail.com</h4>
